@@ -2,4 +2,8 @@ Hola Mundo
 linea nueva 1
 linea nueva 2 web
 
+<<<<<<< HEAD
 Cambio Local
+=======
+Cambio Remoto
+>>>>>>> 716344090303a291eac5ec43dffba22bbdda526e
